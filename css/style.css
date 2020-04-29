@@ -567,7 +567,7 @@ body.offcanvas {
     left: 0;
     width: 100%;
     right: 0;
-    background: rgba(0, 0, 0, 0.9);
+    background: rgba(0, 0, 0, 0.829);
     opacity: 0;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
@@ -628,10 +628,11 @@ body.offcanvas {
         color: #000; }
     @media screen and (max-width: 768px) {
       .project .desc {
-        opacity: 1;
-        background: rgba(255, 255, 255, 0.5); }
+        opacity: 0.5;
+        background: rgba(10, 10, 10, 0.589); }
         .project .desc h3 {
           font-style: 28px;
+          text-transform: uppercase;
           -webkit-transform: translate3d(0, 0, 0);
           transform: translate3d(0, 0, 0);
           color: #000; }
