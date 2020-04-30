@@ -3,39 +3,64 @@
 
 <!--  created with free sitemap generation system www.sitemapxml.jp  --> 
 <url>
-  <loc>https://kentoniikura.com/</loc>
+  <loc>https://www.kentoniikura.com/</loc>
   <priority>1.0</priority>
-  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://kentoniikura.com/index.html</loc>
+  <loc>https://www.kentoniikura.com/index.html</loc>
   <priority>0.8</priority>
-  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://kentoniikura.com/work.html</loc>
+  <loc>https://www.kentoniikura.com/about.html</loc>
   <priority>0.8</priority>
-  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://kentoniikura.com/about.html</loc>
+  <loc>https://www.kentoniikura.com/contact.html</loc>
   <priority>0.8</priority>
-  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://kentoniikura.com/research.html</loc>
+  <loc>https://www.kentoniikura.com/kotobanokikai.html</loc>
   <priority>0.8</priority>
-  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://kentoniikura.com/contact.html</loc>
+  <loc>https://www.kentoniikura.com/idea.html</loc>
   <priority>0.8</priority>
-  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://kentoniikura.com/blog.html</loc>
+  <loc>https://www.kentoniikura.com/machine.html</loc>
   <priority>0.8</priority>
-  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.kentoniikura.com/gyokan.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.kentoniikura.com/w2v.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.kentoniikura.com/whispers.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.kentoniikura.com/thrill.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.kentoniikura.com/kuribocchi.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.kentoniikura.com/aicopy.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.kentoniikura.com/about/index.html</loc>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://www.kentoniikura.com/contact/index.html</loc>
+  <priority>0.7</priority>
 </url>
 
 </urlset>
